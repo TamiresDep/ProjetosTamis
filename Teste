@@ -1,1 +1,76 @@
-oi
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo de Tamires Santos Depintor</title>
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Tamires Santos Depintor</h1>
+            <p>Brasileira, casada, 25 anos</p>
+            <p>Rua São Miguel, 201, Jd. Boa Vista, São Paulo</p>
+            <p>Celular: (11) 99236-1990 | E-mail: <a href="mailto:mires43@outlook.com">mires43@outlook.com</a></p>
+        </header>
+        <section>
+            <h2>OBJETIVO</h2>
+            <p>Estágio/Júnior em Desenvolvimento de Sistemas e/ou QA</p>
+        </section>
+        <section>
+            <h2>FORMAÇÃO ACADÊMICA</h2>
+            <p>Cursando análise e desenvolvimento de sistemas, previsão de término em 02/2025 em UNIP- Universidade Paulista</p>
+        </section>
+        <section>
+            <h2 id="experience-title" class="button">EXPERIÊNCIA PROFISSIONAL</h2>
+            <div id="experience-content" class="experience-hidden">
+                <div class="job">
+                    <h3>Care</h3>
+                    <p><strong>Cargo:</strong> Auxiliar administrativo (08/05/2023 - Atual)</p>
+                    <p><strong>Principais Atividades:</strong> Atuar na área administrativa em geral, controle de ponto de colaboradores, desenvolvimento de planilhas, recebimentos de atestados, envio e recebimento de malote, desenvolvimento e conferência de controle de postos da enfermagem, escala de postos da enfermagem.</p>
+                </div>
+                <div class="job">
+                    <h3>AREZZO&CO</h3>
+                    <p><strong>Cargo:</strong> Vendedora (02/08/2021 - 02/2023)</p>
+                    <p><strong>Principais Atividades:</strong> Atuar na área de vendas pdv e online, desenvolver marketing em redes sociais, entregar metas.</p>
+                </div>
+                <div class="job">
+                    <h3>TNG COMERCIO LTDA</h3>
+                    <p><strong>Cargo:</strong> Vendedora Responsável - Gerente (21/12/2020 - 09/07/2021)</p>
+                    <p><strong>Principais Atividades:</strong> Consultora de moda masculina, líder de equipe, cadastro de clientes, fechamento de caixa, montagem de planilhas, desenvolver merchandising no interior da loja e vitrines.</p>
+                </div>
+                <div class="job">
+                    <h3>SIBERIAN VALDAC</h3>
+                    <p><strong>Cargo:</strong> Vendedora – Subgerente (12/2017 - 04/10/2020)</p>
+                    <p><strong>Principais Atividades:</strong> Consultora de moda feminina, líder de equipe, acompanhamento de ponto, montagem de planilhas de desempenho semanal, cadastro de clientes, fechamento de caixa, desenvolver merchandising no interior da loja e vitrines.</p>
+                </div>
+                <div class="job">
+                    <h3>ATENTO BRASIL</h3>
+                    <p><strong>Cargo:</strong> Cobrança (12/2016 - 08/2017)</p>
+                    <p><strong>Principais Atividades:</strong> Entrar em contato com clientes por telefone, fazendo cobranças e atingindo metas.</p>
+                </div>
+                <div class="job">
+                    <h3>PANIFICADORA NOVA ESTRELA</h3>
+                    <p><strong>Cargo:</strong> Caixa, Balconista (10/2014 - 04/2016)</p>
+                    <p><strong>Principais Atividades:</strong> Atendimento ao cliente, operação de caixa e responsável pelo estabelecimento na ausência de gestores.</p>
+                </div>
+                <div class="job">
+                    <h3>DROGARIA FARMELHOR</h3>
+                    <p><strong>Cargo:</strong> Caixa, Balconista (12/2013 - 09/2014)</p>
+                    <p><strong>Principais Atividades:</strong> Atendimento e recepção ao cliente, operação de caixa, responsável por escala e planilhas, atuava com auxílios gerais dentro da loja, auxiliava na montagem de vitrine e display, merchandising.</p>
+                </div>
+            </div>
+        </section>
+        <section>
+            <h2>INFORMAÇÕES ADICIONAIS</h2>
+            <ul>
+                <li>Informática – Word, Excel, PowerPoint, Windows, Access - Brasil treina – 12 meses – Conclusão 06/2014.</li>
+                <li>Algoritmos e Lógica de programação - Linguagens C, C++, Python, C# e Java. Variáveis, entrada e saída de dados, processamento, estrutura condicional, estrutura repetitivas, vetores, matrizes, teste de mesa e depuração de programas. – Udemy – 40h – Conclusão 04/2023</li>
+                <li>Linguagem de programação – HTML, CSS e JavaScript – Fundação Bradesco – 10h – Conclusão 04/2023.</li>
+            </ul>
+        </section>
+    </div>
+    <script src="JS/main.js"></script>
+</body>
+</html>
